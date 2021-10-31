@@ -119,41 +119,15 @@ const Home = () => {
 
 
             <div className="bg-secondary text-white text-center py-4 my-4">
-                <h2>Upcoming Tours</h2>
+                <h2 className="mb-3">Why Us? Excellence in All we Do</h2>
             </div>
             <Row>
-                <Col className="md-3">
-                    <Card style={{ width: '18rem' }}>
-                        <Card.Img className="city-img" variant="top" src="./images/Dhaka.jpg" />
-                        <Card.Body>
-                            <Card.Title>Dhaka</Card.Title>
-                        </Card.Body>
-                    </Card>
-                </Col>
-                <Col className="md-3">
-                    <Card style={{ width: '18rem' }}>
-                        <Card.Img className="city-img" variant="top" src="./images/sylhet.jpg" />
-                        <Card.Body>
-                            <Card.Title>Sylhet</Card.Title>
-                        </Card.Body>
-                    </Card>
-                </Col>
-                <Col className="md-3">
-                    <Card style={{ width: '18rem' }}>
-                        <Card.Img className="city-img" variant="top" src="./images/chattogram.jpg" />
-                        <Card.Body>
-                            <Card.Title>Chattogram</Card.Title>
-                        </Card.Body>
-                    </Card>
-                </Col>
-                <Col className="md-3">
-                    <Card style={{ width: '18rem' }}>
-                        <Card.Img className="city-img" variant="top" src="./images/rajshahi.jpg" />
-                        <Card.Body>
-                            <Card.Title>Rajshahi</Card.Title>
-                        </Card.Body>
-                    </Card>
-                </Col>
+                <div>
+                    <img src="./images/why-us.png" alt="" />
+                </div>
+                <div>
+                    <p>Pathfriend Tour Operator is a leading local tour operators in Bangladesh, committed to give you a lifetime Bangladesh experience. As Bangladesh is full of natural beauty and hidden treasure, its underdeveloped infrastructure can disrupt your travel plans. And this is why we are here to make your trip perfect with your needs. Our tour planning, time management, best accommodation, good quality food, local experience, freedom to blend in with this country and knowledgeable guides will impress you. Whether you are in Bangladesh for a private tour or a group tour, we can be a new and unique experience for your trip.</p>
+                </div>
             </Row>
         </>
     );
