@@ -1,0 +1,23 @@
+.navbar-style{
+    background-color: gray;
+}
+/* nav menu style */
+.nav-menu {
+    color: white;
+    font-size: 20px;
+    text-decoration: none;
+  }
+/* nav menu hover */
+  .nav-menu:hover {
+    color: rgb(12, 12, 12);
+    background-color:rgb(250, 250, 94);
+    border-radius: 5px;
+    padding: 5px;
+  }
+  /* Site name style */
+  .site-name{
+      color: white;
+      font-size: 30px;
+      padding: 5px;
+      margin-right: 150px;
+  }

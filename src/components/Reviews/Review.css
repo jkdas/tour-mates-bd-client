@@ -1,0 +1,16 @@
+.reviewer-profile{
+    background-color: wheat;
+    text-align: left;
+}
+
+.profile-img img{
+   border-radius: 50%;
+}
+.review-img img{
+    width: 350px;
+    height: 250px;
+    object-fit: cover;
+}
+.review-text{
+    text-align: left;
+}

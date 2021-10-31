@@ -1,0 +1,12 @@
+.add-new-package form{
+    display:flex;
+    flex-direction: column;
+    width: 70%;
+    margin: auto;
+}
+
+.add-new-package form, input{
+    margin-bottom: 20px;
+    padding: 5px;
+    outline: none;
+}
