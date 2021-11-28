@@ -1,4 +1,4 @@
-# TourMates
+# TourMates 
 
 ## Overview
 
@@ -11,7 +11,9 @@ https://tour-mates-bd.web.app/
 ## Key Features::
 
  - We offer free cancellation & booking Policy for any tour. In some cases, you can cancel or book the tour on the day before it starts. Please check our Booking & Cancellation Policy to know more about each tour.
- - Your next travel should be safe & sustainable after the COVID-19 outbreak. We assure safety on every step maintaining rules awareness and offering healthy food. We focus on sustainability of nature and eco-friendly travel.
+ - Tourists can find details of any historical and attractive tour places inside Bangladesh and place booking order easily.
+ - Visitors can see all reviews given by the tourist and can contact using contact form 
+ - Admin user can manage all tour packages, booking order, and add new tour packages by using this website
  - We assure the quality services for every single trip with best tour plan, high rated accommodations, transportations and quality food. Our full time knowledgeable and accompanied guide are committed to make it perfect.
  - Our experiences of many years in tourism  will  pleasure you by it’s nature. Through the good relationship with the locality and the authority, our services are highly occupied, travel friendly, 100% secured and conductive.
  - We offering best rate for your group tour of any number. Firstly, we prefer a private arrangement for a trip to make it comfortable and enjoyable with our extraordinary services.
